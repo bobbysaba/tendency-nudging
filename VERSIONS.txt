@@ -1,0 +1,13 @@
+THIS DOCUMENT WILL CONTAIN ALL VERSIONS/CHANGES MADE TO THE REPO, THE DATE THE CHANGES WERE MADE AND WHO IS PUSHING THE CHANGES
+
+IF YOU ARE TRYING TO PUSH CHANGES TO THE REPOSITORY, PLEASE ADD A SECTION TO THIS DOCUMENT SO NEW VERSIONS ARE DOCUMENTED IF APPROVED
+
+#######################################################
+version 1.0 - 02/13/2023 - Matt Flournoy (matthew.flournoy@noaa.gov)
+    -- initial repo created
+    -- documentation/README/VERSIONS created
+
+version 1.1 - 09/23/2025 - Bobby Saba (robert.saba@ou.edu)
+    -- formal README.md created outlining repo structure
+    -- toy.input README created explaining variables in input file 
+    -- example build (cm1r21.1) provided with source code already implemented

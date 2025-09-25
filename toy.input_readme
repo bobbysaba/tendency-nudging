@@ -1,0 +1,13 @@
+
+&toyparms
+------------------------------------------------------------------------
+warmamp - max amplitude of heating (K/s)
+warmxc - x-coordinate representing the center of the theta tendency (m)
+warmyc - same as above for y-coordinate 
+warmzc - same as above for z-coordinate
+warmrad - horizontal radius of the bubble (m)
+warmdepth - vertical radius of the bubble (m)
+warmtime - model time to begin heating (s)
+warmtime2 - model time at which max amplitude is reached (s)
+warmtime3 - model time to begin cooling to 0 tendency (s)
+warmtime4 - model time where the heating tendency has returned to 0 K/s (s)
